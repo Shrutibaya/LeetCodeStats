@@ -1,0 +1,87 @@
+body {
+    background: linear-gradient(to right, #f9f9f9, #e8f0ff);
+    margin: 0;
+    padding: 0;
+}
+
+.appname{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.userinfo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    height: 30px;
+    width: 400px;
+    border: 1px solid lightgray;
+    font-size: 1rem;
+    height: 3rem;
+    padding-left:0.5rem ;
+}
+.submit{
+    height: 40px;
+    width: 100px;
+    margin: 1rem;
+}
+.iconleetcode{
+    height: 100px;
+    width:100px;
+}
+.username{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+}
+.username p{
+    font-size:xx-large;
+    margin-left: 1rem;
+}
+.easy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+.medium{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+.hard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+.ranking {
+    border: 1px solid black;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: fit-content;
+    border-radius: 10px;
+}
+.acceptrate {
+    border: 1px solid black;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: fit-content;
+    border-radius: 10px;
+}
+.totalq{
+    border: 1px solid black;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: fit-content;
+    border-radius: 10px;
+}
+.three {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
